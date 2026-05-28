@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "An interactive brand campaign tool. Describe a product and generate consistent, photorealistic visual mockups across a billboard, newspaper, and social media post without people using the Nano-Banana model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
